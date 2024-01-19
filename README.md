@@ -39,3 +39,4 @@ Run the command in your project folder terminal after cloning this repo to downl
 
 Set `type = module` in your `pakage.json` file
 
+# <div align="center">Don't forget to leave a star ⭐️🙇‍♂️</div>
