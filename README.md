@@ -18,7 +18,17 @@ This is project is made using,
 2. <b>`express.js`</b>
 3. <b>`Body-parser`</b>
 
-### :octocat: To install modules and frameworks
+## :octocat: Cloning this repo(Terminal Version):
+- [x] Run the following command:
+```bash 
+git clone 'https://github.com/yashsdoshi/DIY_Joke_API.git' 
+```
+- [x] `cd` to the cloned folder:
+```bash 
+cd DIY_Joke_API
+```
+
+## :octocat: To install modules and frameworks
 
 Run the command in your project folder terminal after cloning this repo to download the required modules.
 ```bash
@@ -27,4 +37,5 @@ Run the command in your project folder terminal after cloning this repo to downl
 <br />
 <br />
 
-Set `type` = `module` in your `pakage.json` file
+Set `type = module` in your `pakage.json` file
+
