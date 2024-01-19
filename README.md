@@ -21,11 +21,11 @@ This is project is made using,
 ## :octocat: Cloning this repo(Terminal Version):
 - [x] Run the following command:
 ```bash 
-git clone 'https://github.com/yashsdoshi/DIY_Joke_API.git' 
+git clone 'https://github.com/yashsdoshi/Joke_API.git' 
 ```
 - [x] `cd` to the cloned folder:
 ```bash 
-cd DIY_Joke_API
+cd Joke_API
 ```
 
 ## :octocat: To install modules and frameworks
